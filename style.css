@@ -1,11 +1,11 @@
-/* Guia de Identificação de Bioincrustação - Estilos PT */
+/* Biofouling Identification Guide - Styles */
 
 :root {
-    --primary: #4CAF50; /* Verde Claro vibrante */
-    --primary-light: #81C784; /* Verde Claro mais pálido */
+    --primary: #4CAF50; /* Vibrant Light Green */
+    --primary-light: #81C784; /* Paler Light Green */
     --danger: #8B0000;
     --danger-light: #CC0000;
-    --success: #2E8B57; /* Verde nativo diferenciado */
+    --success: #2E8B57; /* Differentiated Native Green */
     --warning: #FF8C00;
     --niche: #6B4C9A;
     --gray-100: #f8f9fa;
@@ -30,7 +30,7 @@ body {
     overflow-x: hidden;
 }
 
-/* Badge de Localização no Topo (Antigo Region Badge) */
+/* Location Badge at Top */
 .location-badge {
     display: inline-flex;
     align-items: center;
