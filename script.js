@@ -212,31 +212,25 @@ document.addEventListener('keydown', function(e) {
     }
 });
 
-// --- Lógica dos Filtros Geográficos ---
+// --- Lógica do Filtro Geográfico no Menu (Dropdown) ---
 document.addEventListener('DOMContentLoaded', () => {
-    const filterBtns = document.querySelectorAll('.filter-btn');
+    const regionFilterDropdown = document.getElementById('nav-region-filter');
     const speciesCards = document.querySelectorAll('.species-card');
 
-    filterBtns.forEach(btn => {
-        btn.addEventListener('click', (e) => {
-            // 1. Remover a classe 'active' de todos os botões
-            filterBtns.forEach(b => b.classList.remove('active'));
-            // 2. Adicionar 'active' ao botão clicado
-            e.target.classList.add('active');
+    if (regionFilterDropdown) {
+        regionFilterDropdown.addEventListener('change', (e) => {
+            const filterValue = e.target.value;
 
-            const filterValue = e.target.getAttribute('data-filter');
-
-            // 3. Filtrar os cartões com base na tag 'data-region'
             speciesCards.forEach(card => {
                 const regions = card.getAttribute('data-region') || "";
                 
+                // Mostra se o filtro for "all" ou se a região da carta incluir a seleção
                 if (filterValue === 'all' || regions.includes(filterValue)) {
-                    // Repõe o display original do CSS (geralmente flex ou block)
                     card.style.display = ''; 
                 } else {
                     card.style.display = 'none';
                 }
             });
         });
-    });
+    }
 });
