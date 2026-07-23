@@ -794,5 +794,117 @@
       "Hangs heavily from port structures and static ship hulls",
       "Can weigh down heavily on aquaculture ropes and grates"
     ]
+  },
+  {
+    "category": "invasive",
+    "dataName": "mytilus galloprovincialis mediterranean mussel",
+    "region": "east-asia oceania",
+    "images": "assets/Mediterranean_Mussel.jpg",
+    "mainImage": "assets/Mediterranean_Mussel.jpg",
+    "name": "Mediterranean Mussel",
+    "scientific": "Mytilus galloprovincialis",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Molluscs",
+    "description": "Native to the Mediterranean, this is a massive biofouling pest in Japan, China, and Korea. It forms incredibly dense beds that sink buoys and completely cover ship hulls.",
+    "features": [
+      "Smooth, dark blue to black shell, sometimes with brown edges",
+      "Pointed, beak-like tip (umbo) that turns slightly downwards",
+      "Grows in enormous, tightly packed clusters on vertical surfaces"
+    ]
+  },
+  {
+    "category": "invasive",
+    "dataName": "crepidula onyx onyx slipper snail",
+    "region": "east-asia southeast-asia",
+    "images": "assets/Onyx_Slipper_Snail.jpg",
+    "mainImage": "assets/Onyx_Slipper_Snail.jpg",
+    "name": "Onyx Slipper Snail",
+    "scientific": "Crepidula onyx",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Molluscs",
+    "description": "Native to Southern California, this snail has heavily invaded Hong Kong, Japan, and Korea. It thrives in highly polluted ports and smothers local hull surfaces.",
+    "features": [
+      "Oval, arched shell with a rich dark brown or black exterior",
+      "Internal 'deck' or shelf is brilliant white",
+      "Stacks on top of each other just like the Common Slipper Limpet",
+      "Very tolerant to low oxygen in dirty port waters"
+    ]
+  },
+  {
+    "category": "invasive",
+    "dataName": "amphibalanus eburneus ivory barnacle",
+    "region": "east-asia south-asia southeast-asia indian-ocean",
+    "images": "assets/Ivory_Barnacle.jpg",
+    "mainImage": "assets/Ivory_Barnacle.jpg",
+    "name": "Ivory Barnacle",
+    "scientific": "Amphibalanus eburneus",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Crustaceans",
+    "description": "Native to the Americas, this white barnacle is now a primary fouler in the Indian Ocean and Asian ports. It rapidly degrades anti-fouling coatings.",
+    "features": [
+      "Pure white, smooth cone-shaped shell",
+      "Relatively low and flat compared to other large barnacles",
+      "Diamond-shaped opening",
+      "Found heavily encrusted on propellers and sea chest grates"
+    ]
+  },
+  {
+    "category": "niche-species",
+    "dataName": "xenostrobus securis pygmy mussel",
+    "region": "east-asia europe mediterranean",
+    "images": "assets/Pygmy_Mussel.jpg",
+    "mainImage": "assets/Pygmy_Mussel.jpg",
+    "name": "Pygmy Mussel",
+    "scientific": "Xenostrobus securis",
+    "priority": "WATCH",
+    "priorityClass": "medium",
+    "group": "Molluscs",
+    "description": "Originating in Australasia, this tiny mussel has severely invaded Japan and Korea. It clogs internal ship pipework in brackish water ports.",
+    "features": [
+      "Very small shell (rarely larger than 1.5 cm)",
+      "Dark brown to black, shiny surface",
+      "Hinge is located strictly at the front edge (terminal umbo)",
+      "Tends to mix with native mussels, making identification tricky"
+    ]
+  },
+  {
+    "category": "invasive",
+    "dataName": "perna perna brown mussel",
+    "region": "south-asia indian-ocean",
+    "images": "assets/Brown_Mussel.jpg",
+    "mainImage": "assets/Brown_Mussel.jpg",
+    "name": "Brown Mussel",
+    "scientific": "Perna perna",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Molluscs",
+    "description": "Native to Africa and South America, this aggressive mussel causes severe biofouling on offshore oil rigs, port infrastructure, and vessels in India and the Indian Ocean.",
+    "features": [
+      "Large, elongated shell up to 12 cm long",
+      "Brown to yellow-brown color (unlike the green edges of the Asian Green Mussel)",
+      "Highly competitive, completely displacing native bivalves on hard surfaces"
+    ]
+  },
+  {
+    "category": "invasive",
+    "dataName": "ascidiella aspersa european sea squirt",
+    "region": "east-asia south-asia",
+    "images": "assets/European_Sea_Squirt.jpg",
+    "mainImage": "assets/European_Sea_Squirt.jpg",
+    "name": "European Sea Squirt",
+    "scientific": "Ascidiella aspersa",
+    "priority": "WATCH",
+    "priorityClass": "medium",
+    "group": "Other Invertebrates",
+    "description": "Native to Europe, this solitary tunicate has invaded India, Japan, and China. It densely fouls aquaculture nets and ship hulls, increasing fuel consumption.",
+    "features": [
+      "Oval, egg-shaped body (usually 5-10 cm long)",
+      "Translucent or dirty grey/brown, rough and cartilaginous skin",
+      "Two siphons located close to each other at the top",
+      "Often covered in mud or small algae"
+    ]
   }
 ]
