@@ -285,7 +285,7 @@
   {
     "category": "niche-species",
     "dataName": "carcinus maenas european green crab",
-    "region": "americas na-atlantic na-pacific sa-atlantic oceania",
+    "region": "americas na-atlantic na-pacific sa-atlantic oceania east-asia",
     "images": "assets/European_Green_Crab.webp",
     "mainImage": "assets/European_Green_Crab.webp",
     "name": "European Green Crab",
@@ -456,7 +456,7 @@
   {
     "category": "invasive",
     "dataName": "carijoa riisei snowflake coral",
-    "region": "americas caribbean gulf-mexico sa-atlantic na-pacific",
+    "region": "americas caribbean gulf-mexico sa-atlantic na-pacific south-asia southeast-asia indian-ocean",
     "images": "assets/Snowflake_Coral.jpg",
     "mainImage": "assets/Snowflake_Coral.jpg",
     "name": "Snowflake Coral",
