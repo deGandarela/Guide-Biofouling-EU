@@ -1,0 +1,266 @@
+[
+  {
+    "category": "invasive",
+    "dataName": "sargassum muticum japanese wireweed sargassum algae",
+    "region": "atlantic north-sea baltic mediterranean",
+    "images": "assets/Japanese_Wireweed.jpeg, assets/Japanese_Wireweed1.jpg",
+    "mainImage": "assets/Japanese_Wireweed.jpeg",
+    "name": "Japanese Wireweed",
+    "scientific": "Sargassum muticum",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Marine Algae",
+    "description": "Invasive brown algae that forms dense floating mats and attaches strongly to hard surfaces like hulls.",
+    "features": [
+      "Brown/yellowish algae",
+      "Small air vesicles (look like berries)",
+      "Can grow up to several meters long"
+    ]
+  },
+  {
+    "category": "invasive",
+    "dataName": "undaria pinnatifida wakame algae",
+    "region": "atlantic mediterranean north-sea",
+    "images": "assets/Wakame1.jpg, assets/Wakame.jpg",
+    "mainImage": "assets/Wakame1.jpg",
+    "name": "Wakame",
+    "scientific": "Undaria pinnatifida",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Marine Algae",
+    "description": "Marine algae listed as invasive in Europe. Grows rapidly on hulls and port infrastructure.",
+    "features": [
+      "Large brown fronds",
+      "Distinct central vein (midrib)",
+      "Very wavy and frilly base (sporophyll)"
+    ]
+  },
+  {
+    "category": "invasive",
+    "dataName": "botryllus schlosseri star ascidian tunicate",
+    "region": "atlantic mediterranean north-sea baltic black-sea",
+    "images": "assets/Star_Ascidian.jpg, assets/Star_Ascidian1.jpg",
+    "mainImage": "assets/Star_Ascidian.jpg",
+    "name": "Star Ascidian",
+    "scientific": "Botryllus schlosseri",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Other Invertebrates",
+    "description": "Colonial invertebrate that encrusts on hulls, creating gelatinous mats that smother other species.",
+    "features": [
+      "Colonies form star-shaped patterns",
+      "Gelatinous/rubbery texture",
+      "Various colors (orange, yellow, green, purple)"
+    ]
+  },
+  {
+    "category": "invasive",
+    "dataName": "amphibalanus amphitrite striped barnacle",
+    "region": "atlantic mediterranean black-sea",
+    "images": "assets/Striped_Barnacle.jpg",
+    "mainImage": "assets/Striped_Barnacle.jpg",
+    "name": "Striped Barnacle",
+    "scientific": "Amphibalanus amphitrite",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Crustaceans",
+    "description": "Warm-water crustacean. Causes huge hydrodynamic drag on ships and spreads rapidly.",
+    "features": [
+      "Calcareous cone shape",
+      "Vertical purple or brown stripes/lines",
+      "Direct primary fouling on metal/paint"
+    ]
+  },
+  {
+    "category": "invasive",
+    "dataName": "rugulopteryx okamurae asian brown weed algae",
+    "region": "mediterranean atlantic",
+    "images": "assets/Asian_Brown_Weed.jpg",
+    "mainImage": "assets/Asian_Brown_Weed.jpg",
+    "name": "Asian Brown Weed",
+    "scientific": "Rugulopteryx okamurae",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Marine Algae",
+    "description": "A highly aggressive brown algae that covers massive areas of the rocky seabed. Transferred via anchors and fishing gear.",
+    "features": [
+      "Yellowish-brown, flat, ribbon-like branches",
+      "Forms extremely dense mats",
+      "Attaches strongly to hard surfaces and ropes"
+    ]
+  },
+  {
+    "category": "invasive",
+    "dataName": "asparagopsis armata harpoon weed algae red",
+    "region": "atlantic mediterranean",
+    "images": "assets/Harpoon_Weed.jpg",
+    "mainImage": "assets/Harpoon_Weed.jpg",
+    "name": "Harpoon Weed",
+    "scientific": "Asparagopsis armata",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Marine Algae",
+    "description": "An aggressive red algae officially listed in European legislation. Travels entangled in hull structures and equipment.",
+    "features": [
+      "Pink to dark red color",
+      "Barbed, harpoon-like hooks on branches",
+      "Fluffy or feathery appearance underwater"
+    ]
+  },
+  {
+    "category": "invasive",
+    "dataName": "styela clava club tunicate ascidian",
+    "region": "atlantic north-sea mediterranean",
+    "images": "assets/Club_Tunicate.jpg",
+    "mainImage": "assets/Club_Tunicate.jpg",
+    "name": "Club Tunicate",
+    "scientific": "Styela clava",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Other Invertebrates",
+    "description": "A filter-feeding sea squirt that creates heavy fouling on hulls and docks, significantly increasing vessel drag.",
+    "features": [
+      "Club or baseball bat shape with a stalk",
+      "Leathery, bumpy outer skin",
+      "Brownish to yellowish color"
+    ]
+  },
+  {
+    "category": "invasive",
+    "dataName": "didemnum vexillum carpet sea squirt tunicate",
+    "region": "atlantic north-sea mediterranean",
+    "images": "assets/Carpet_Sea_Squirt.jpg",
+    "mainImage": "assets/Carpet_Sea_Squirt.jpg",
+    "name": "Carpet Sea Squirt",
+    "scientific": "Didemnum vexillum",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Other Invertebrates",
+    "description": "A highly invasive colonial tunicate that creates fleshy, mat-like colonies that smother native marine life.",
+    "features": [
+      "Pale orange, cream, or off-white color",
+      "Looks like dripping wax or vomit",
+      "Leathery, veiny surface"
+    ]
+  },
+  {
+    "category": "niche-species",
+    "dataName": "eriocheir sinensis chinese mitten crab",
+    "region": "north-sea baltic atlantic",
+    "images": "assets/Chinese_Mitten_Crab.jpg, assets/Chinese_Mitten_Crab1.jpg",
+    "mainImage": "assets/Chinese_Mitten_Crab.jpg",
+    "name": "Chinese Mitten Crab",
+    "scientific": "Eriocheir sinensis",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Crustaceans",
+    "description": "Invasive crustacean that travels hidden in crevices or in ballast water. Migrates between the sea and freshwater estuaries.",
+    "features": [
+      "Claws covered in dense 'wool' or 'hair'",
+      "Olive-green to brown carapace"
+    ]
+  },
+  {
+    "category": "niche-species",
+    "dataName": "mya arenaria soft-shell clam",
+    "region": "baltic north-sea atlantic mediterranean black-sea",
+    "images": "assets/Soft_shell_clam.jpg",
+    "mainImage": "assets/Soft_shell_clam.jpg",
+    "name": "Soft-shell Clam",
+    "scientific": "Mya arenaria",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Molluscs",
+    "description": "Bivalve mollusc frequently found in sediments that accumulate at the bottom of sea chests of ships stationary for a long time.",
+    "features": [
+      "Oval and fragile (chalky) shell",
+      "Long fleshy siphon (tube)"
+    ]
+  },
+  {
+    "category": "niche-species",
+    "dataName": "hemigrapsus sanguineus asian shore crab",
+    "region": "north-sea atlantic",
+    "images": "assets/Asian_Shore_Crab.jpg",
+    "mainImage": "assets/Asian_Shore_Crab.jpg",
+    "name": "Asian Shore Crab",
+    "scientific": "Hemigrapsus sanguineus",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Crustaceans",
+    "description": "A highly invasive crab replacing native species in Northern Europe. Often transported in sea chests and ballast water.",
+    "features": [
+      "Square-shaped carapace",
+      "Claws with red/blood-like spots"
+    ]
+  },
+  {
+    "category": "niche-species",
+    "dataName": "mnemiopsis leidyi sea walnut ctenophore",
+    "region": "black-sea baltic north-sea mediterranean",
+    "images": "assets/Sea_Walnut.jpg",
+    "mainImage": "assets/Sea_Walnut.jpg",
+    "name": "Sea Walnut",
+    "scientific": "Mnemiopsis leidyi",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Other Invertebrates",
+    "description": "A devastating comb jelly transported in ballast water. It caused the collapse of fisheries in the Black Sea.",
+    "features": [
+      "Transparent, walnut-shaped body",
+      "Lobed structure (no tentacles)",
+      "Rows of cilia that diffract light (rainbow effect)"
+    ]
+  },
+  {
+    "category": "niche-species",
+    "dataName": "callinectes sapidus atlantic blue crab",
+    "region": "mediterranean black-sea atlantic",
+    "images": "assets/Atlantic_Blue_Crab.jpg",
+    "mainImage": "assets/Atlantic_Blue_Crab.jpg",
+    "name": "Atlantic Blue Crab",
+    "scientific": "Callinectes sapidus",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Crustaceans",
+    "description": "A voracious predator, originally from the Americas, now devastating bivalve populations in the Mediterranean.",
+    "features": [
+      "Bright blue claws",
+      "Olive green carapace with sharp lateral spines"
+    ]
+  },
+  {
+    "category": "niche-species",
+    "dataName": "rapana venosa veined rapa whelk snail",
+    "region": "black-sea mediterranean atlantic",
+    "images": "assets/Veined_Rapa_Whelk.jpg, assets/Veined_Rapa_Whelk1.jpg",
+    "mainImage": "assets/Veined_Rapa_Whelk.jpg",
+    "name": "Veined Rapa Whelk",
+    "scientific": "Rapana venosa",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Molluscs",
+    "description": "A large predatory sea snail that feeds on native oysters and mussels. Larvae spread via ballast water.",
+    "features": [
+      "Heavy, rounded shell (up to 18 cm)",
+      "Bright orange coloring on the inside of the shell opening"
+    ]
+  },
+  {
+    "category": "niche-species",
+    "dataName": "plotosus lineatus striped eel catfish",
+    "region": "mediterranean",
+    "images": "assets/Striped_Eel_Catfish.webp",
+    "mainImage": "assets/Striped_Eel_Catfish.webp",
+    "name": "Striped Eel Catfish",
+    "scientific": "Plotosus lineatus",
+    "priority": "INVASIVE",
+    "priorityClass": "high",
+    "group": "Fish",
+    "description": "The only marine fish on the EU list of invasive alien species. Highly venomous and dangerous to divers.",
+    "features": [
+      "Eel-like body with four pairs of barbels around the mouth",
+      "Brown-black body with two white/yellow horizontal stripes"
+    ]
+  }
+]
